@@ -7,7 +7,6 @@ fun main(args: Array<String>) {
 
     //Compras().macas()
 
-    NumerosInteiros().numeros()
-
-
+    //NumerosInteiros().numeros()
+    CalculoDePeso().pesoIdeal()
 }
